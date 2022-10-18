@@ -1,1 +1,0 @@
-Lab 1: Mobile application, create GUI of NoteMe APP
