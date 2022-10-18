@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NoteMe</string>
+    <string name="edit">edit</string>
+    <string-array name="colorSpinner">
+        <item>White</item>
+        <item>Teal</item>
+    </string-array>
+</resources>
